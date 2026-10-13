@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👀 Profile Views
-
-"Profile Views" (https://komarev.com/ghpvc/?username=Keerthana-V-2004&color=blue&style=flat)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Keerthana-V-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
