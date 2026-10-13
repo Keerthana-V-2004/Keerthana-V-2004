@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Keerthana-V-2004/Keerthana-V-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Keerthana-V-2004&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
